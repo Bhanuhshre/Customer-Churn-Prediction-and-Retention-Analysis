@@ -69,8 +69,8 @@ The dataset contains telecom customer details and whether they churned or not.
 
 | Machine Learning Model | Accuracy |
 |---|---|
-| Logistic Regression | ~80% |
-| Random Forest Classifier | ~82% |
+| Logistic Regression | 81.55% |
+| Random Forest Classifier | 79.63% |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -90,9 +90,67 @@ The dataset contains telecom customer details and whether they churned or not.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 📊 Data Visualization
+
+- **Churn Distribution** — How many customers churned vs stayed
+
+![Churn Distribution](churn_distribution.png)
+
+---
+
+- **Churn by Internet Service** — Which internet service has highest churn
+
+![Churn by Internet Service](churn_by_internet.png)
+
+---
+
+- **Tenure vs Churn** — How long customers stayed before churning
+
+![Tenure vs Churn](tenure_vs_churn.png)
+
+---
+
+- **Monthly Charges vs Churn** — Effect of monthly bill on churn
+
+![Monthly Charges vs Churn](monthly_charges_vs_churn.png)
+
+---
+
+- **Churn by Contract Type** — Which contract type leads to more churn
+
+![Churn by Contract](churn_by_contract.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📉 Model Evaluation
+
+- **Confusion Matrix — Logistic Regression** (Accuracy: 81.55%)
+
+![Confusion Matrix LR](confusion_matrix_LR.png)
+
+---
+
+- **Confusion Matrix — Random Forest** (Accuracy: 79.63%)
+
+![Confusion Matrix RF](confusion_matrix_RF.png)
+
+---
+
+- **ROC Curve — Both Models Compared**
+
+![ROC Curve](roc_curve.png)
+
+---
+
+- **Feature Importance — Random Forest**
+
+![Feature Importance](feature_importance.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## ✅ Results
 
-- Random Forest achieved the highest accuracy among the models used.
+- Logistic Regression achieved the highest accuracy of **81.55%**
 
 - Data visualization helped in understanding churn trends and feature correlations.
 
@@ -117,7 +175,9 @@ The dataset contains telecom customer details and whether they churned or not.
 ## 👩‍💻 Author
 
 Varikuti Bhanuhshre
-BTech Computer Science and Engineering
+
+BTech Computer Science Enineering
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
