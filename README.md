@@ -1,6 +1,6 @@
-# 📊 Telecom Customer Churn Prediction
+# 📊 Customer-Churn-Prediction-and-Rentention-Analysis
 
-A Machine Learning project to predict whether a telecom customer will churn (leave) or not.
+A machine learning project that predicts customer churn using classification algorithms such as KNN, SVC, Logistic Regression, Decision Tree, and Random Forest. Includes data analysis, preprocessing, visualization, model comparison, and a prediction interface with saved models.
 
 ---
 
