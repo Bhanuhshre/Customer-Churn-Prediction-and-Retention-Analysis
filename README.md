@@ -1,7 +1,5 @@
 # 📊 Customer-Churn-Prediction-and-Rentention-Analysis
 
-## 📊 Customer Churn Prediction and Retention Analysis
-
 This project predicts whether a telecom customer is likely to leave (churn) 
 using Machine Learning models like Logistic Regression and Random Forest. 
 It analyzes customer data such as tenure, monthly charges, and internet service 
