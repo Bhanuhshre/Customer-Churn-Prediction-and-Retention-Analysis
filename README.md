@@ -1,6 +1,11 @@
 # 📊 Customer-Churn-Prediction-and-Rentention-Analysis
 
-A machine learning project that predicts customer churn using classification algorithms such as KNN, SVC, Logistic Regression, Decision Tree, and Random Forest. Includes data analysis, preprocessing, visualization, model comparison, and a prediction interface with saved models.
+## 📊 Customer Churn Prediction and Retention Analysis
+
+This project predicts whether a telecom customer is likely to leave (churn) 
+using Machine Learning models like Logistic Regression and Random Forest. 
+It analyzes customer data such as tenure, monthly charges, and internet service 
+to find patterns that lead to churn and help businesses retain their customers.
 
 ---
 
