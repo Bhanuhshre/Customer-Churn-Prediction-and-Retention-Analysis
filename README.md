@@ -10,7 +10,7 @@ to find patterns that lead to churn and help businesses retain their customers.
 ## 📁 Project Structure
 ```
 telecom-churn-project/
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv   # Dataset
+├── telecom_churn.csv                        # Dataset
 ├── telecom_churn.py                         # Main code
 └── README.md                                # Project info
 ```
