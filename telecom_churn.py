@@ -30,7 +30,7 @@ print("=" * 50)
 # -----------------------------------------------
 # STEP 2 - LOAD DATASET
 # -----------------------------------------------
-df = pd.read_csv('WA_Fn-UseC_-Telco-Customer-Churn.csv')
+df = pd.read_csv('telecom_churn.csv')
 
 print("\n✅ Dataset Loaded Successfully!")
 print(f"   Rows    : {df.shape[0]}")
